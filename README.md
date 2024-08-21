@@ -1,13 +1,12 @@
 # SuperMarioWorld
-슈퍼마리오 월드 포트폴리오
+>2D Platform Game Portfolio
 
 ## Contents
-- [Character](#character)
-
+- [Player](#player)<br>
+- [Enemy](#enemy)
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
-### Character
-
-
+### Player
+### Enemy
