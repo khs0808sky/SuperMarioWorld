@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\DX_Animation.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\PixelPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\PixelUV.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\VertexPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_Animation\Debug\VertexUV.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

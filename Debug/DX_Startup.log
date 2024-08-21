@@ -1,0 +1,14 @@
+﻿  SRTScene.cpp
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(11,28): warning C4316: 'MatrixBuffer': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(15,59): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(15,59): warning C4316: 'NewTriangle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(19,59): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(19,59): warning C4316: 'NewTriangle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(23,19): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(27,18): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(34,17): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(38,17): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(48,14): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(50,15): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍_khs\김현수\DX_Startup\Scenes\SRTScene.cpp(52,15): warning C4316: 'NewCircle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  DX_Startup.vcxproj -> D:\게임프로그래밍_khs\김현수\DX_Startup\Debug\DX_Startup.exe

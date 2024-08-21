@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\DX_SuperMario.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\PixelPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\PixelUV.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\VertexPos.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\게임프로그래밍\김현수\DX_SuperMario\Debug\VertexUV.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

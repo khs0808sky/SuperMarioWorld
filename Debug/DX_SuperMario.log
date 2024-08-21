@@ -1,0 +1,145 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(DX_Animation.vcxproj, DX_DirectXTex.vcxproj, DX_ImGui.vcxproj, DX_Startup.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  SuperMarioTutorialScene.cpp
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(264,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(412,26): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(708,25): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1132,31): warning C4316: 'Background': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1138,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1139,80): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1141,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1142,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1151,72): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1152,77): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1154,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1155,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1162,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1163,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1164,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1165,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1166,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1167,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1180,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1181,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1182,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1183,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1184,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1185,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1198,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1199,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1200,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1201,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1202,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1203,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1216,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1217,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1218,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1219,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1220,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1221,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1236,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1237,80): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1239,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1240,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1251,82): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1252,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1256,84): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1262,91): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1263,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1267,85): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1275,82): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1276,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1280,84): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1286,91): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1287,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1291,85): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1300,85): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1301,41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1305,90): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1311,97): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1312,41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1316,92): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1324,85): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1325,41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1329,90): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1335,97): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1336,41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1340,92): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1349,84): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1350,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1354,88): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1358,90): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1362,89): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1370,84): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1371,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1375,88): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1379,90): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1383,89): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1391,89): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1392,94): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1394,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1395,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1406,86): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1407,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1407,41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1416,74): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1417,80): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1419,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1420,34): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1429,75): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1430,81): warning C4316: 'Topography': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1432,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1433,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1440,51): warning C4316: 'Monster': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1444,63): warning C4316: 'Monster': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1450,71): warning C4316: 'Monster': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1451,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1455,23): warning C4316: 'Player': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1461,115): warning C4316: 'Game_Over': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1463,117): warning C4316: 'Game_Clear': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1465,127): warning C4316: 'Restart_Message': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1467,106): warning C4316: 'Play_Message': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1472,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1472,107): warning C4316: 'Full_Heart': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1475,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1475,109): warning C4316: 'Empty_Heart': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1482,123): warning C4316: 'Number_0': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1485,123): warning C4316: 'Number_1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1488,123): warning C4316: 'Number_2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1491,123): warning C4316: 'Number_3': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1494,123): warning C4316: 'Number_4': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1497,123): warning C4316: 'Number_5': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1500,123): warning C4316: 'Number_6': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1503,123): warning C4316: 'Number_7': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1506,123): warning C4316: 'Number_8': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1509,123): warning C4316: 'Number_9': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1516,122): warning C4316: 'Number_0': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1517,122): warning C4316: 'Number_0': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1518,122): warning C4316: 'Number_0': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1520,122): warning C4316: 'Number_1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1521,122): warning C4316: 'Number_1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1522,122): warning C4316: 'Number_1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1524,122): warning C4316: 'Number_2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1525,122): warning C4316: 'Number_2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1526,122): warning C4316: 'Number_2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1528,122): warning C4316: 'Number_3': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1529,122): warning C4316: 'Number_3': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1530,122): warning C4316: 'Number_3': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1532,122): warning C4316: 'Number_4': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1533,122): warning C4316: 'Number_4': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1534,122): warning C4316: 'Number_4': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1536,122): warning C4316: 'Number_5': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1537,122): warning C4316: 'Number_5': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1538,122): warning C4316: 'Number_5': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1540,122): warning C4316: 'Number_6': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1541,122): warning C4316: 'Number_6': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1542,122): warning C4316: 'Number_6': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1544,122): warning C4316: 'Number_7': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1545,122): warning C4316: 'Number_7': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1546,122): warning C4316: 'Number_7': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1548,122): warning C4316: 'Number_8': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1549,122): warning C4316: 'Number_8': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1550,122): warning C4316: 'Number_8': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1552,122): warning C4316: 'Number_9': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1553,122): warning C4316: 'Number_9': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\게임프로그래밍\김현수\DX_SuperMario\Scenes\SuperMarioTutorialScene.cpp(1554,122): warning C4316: 'Number_9': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  DX_SuperMario.vcxproj -> D:\게임프로그래밍\김현수\DX_SuperMario\Debug\DX_SuperMario.exe
