@@ -1,4 +1,4 @@
-![CommonToMini](https://github.com/user-attachments/assets/9e183aae-1cc3-402a-9d17-fee28982e0ef)# SuperMarioWorld
+# SuperMarioWorld
 > **2D Platform Game Portfolio**<br>
 
 - **게임규칙** <br>
@@ -28,7 +28,6 @@
 - ### [EnemyKill](#enemykill)<br>
 - ### [GameRule](#gamerule)<br>
 
-<br><br><br><br><br><br><br><br><br><br>
 ## MainScreen
 ![image](https://github.com/user-attachments/assets/cf6db7bd-0261-4e4f-9d8a-4fbc2306f345)
 
@@ -79,8 +78,8 @@
 ## PlayerStatusChange
 |상태변화|모습|
 |:---:|:---:|
-|파이어마리오 → 일반마리오|![FireToCommon](https://github.com/user-attachments/assets/d93f6307-5fde-4166-ac79-b1f04c665941)|
-|일반마리오 → 미니마리오|![CommonToMini](https://github.com/user-attachments/assets/9d618e51-1442-4651-a89c-45592d7859b6)|
+|파이어마리오<br>↓<br>일반마리오|![FireToCommon](https://github.com/user-attachments/assets/d93f6307-5fde-4166-ac79-b1f04c665941)|
+|일반마리오<br>↓<br>미니마리오|![CommonToMini](https://github.com/user-attachments/assets/9d618e51-1442-4651-a89c-45592d7859b6)|
 
 ## Enemy
 |이름|상태|외형|
