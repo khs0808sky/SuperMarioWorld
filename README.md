@@ -1,6 +1,10 @@
 # SuperMarioWorld
 > **2D Platform Game Portfolio**<br>
 
+## Play Video Link
+<https://www.youtube.com/watch?v=hMxmzXZlqjM&t=5s>
+
+## PlayRule & GameControl
 - **게임규칙** <br>
 움직이는 몬스터(밤바, 땡감바)를 제한시간(100초)안에 모두 잡으면 클리어<br><br>
 - **조작법** <br>
